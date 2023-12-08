@@ -6,26 +6,26 @@ bludistaci = {
 }
 
 
-def vypisBludistakyPro():
+def vypis_bludistaky_pro():
     print("tohle je placeholder, můžeš mě smazat")
     
     
-def vypisVse():
+def vypis_vse():
     print("tohle je placeholder, můžeš mě smazat")   
 
 
-def pridejBludistaka():
+def pridej_bludistaka():
     print("tohle je placeholder, můžeš mě smazat")
     
 
-def odeberBludistaka():
+def odeber_bludistaka():
     print("tohle je placeholder, můžeš mě smazat")
  
     
-def pridejStudenta():
+def pridej_studenta():
     print("tohle je placeholder, můžeš mě smazat")
 
 
-def nejvyssiSkore():
+def nejvyssi_skore():
     print("tohle je placeholder, můžeš mě smazat")
 
